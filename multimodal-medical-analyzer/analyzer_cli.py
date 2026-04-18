@@ -212,7 +212,7 @@ def main(file, force_ocr):
 
     click.clear()
     click.secho("="*70, fg="blue", bold=True)
-    click.secho("  INTELLIGENT MEDICAL REPORT ANALYZER (Powered by Gemini AI)  ", fg="blue", bold=True)
+    click.secho("  INTELLIGENT MEDICAL REPORT ANALYZER (Made By Gurjot)  ", fg="blue", bold=True)
     click.secho("="*70, fg="blue", bold=True)
 
     print_disclaimer()
